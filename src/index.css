@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* cler user button adjust */
+.cl-avatarBox {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+/* carodoul arrow */
+.arrow {
+  height: 36px;
+  width: 36px;
+  margin: 1px;
+}
+
+/* input colors */
+
+input {
+  background-color: #fff;
+  accent-color: red;
+  border: 2px solid #ccc;
+  color: #333;
+}
